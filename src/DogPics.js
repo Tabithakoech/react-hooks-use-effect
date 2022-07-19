@@ -26,4 +26,5 @@ function DogPics() {
   );
 }
 
+
 export default DogPics;
